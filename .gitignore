@@ -1,0 +1,15 @@
+*.bak
+*.egg-info
+*.old
+*.org
+*.pyc
+*.swp
+/.pio/
+.vscode
+/__pycache__/
+/app/
+build/
+dist/
+.venv
+
+internal/docker/.docker_credential

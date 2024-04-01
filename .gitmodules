@@ -1,0 +1,12 @@
+[submodule "lib/M5GFX"]
+	path = lib/M5GFX
+	url = https://github.com/m5stack/M5GFX.git
+[submodule "lib/M5Stack"]
+	path = lib/M5Stack
+	url = https://github.com/m5stack/M5Stack.git
+[submodule "lib/ArduinoJson"]
+	path = lib/ArduinoJson
+	url = https://github.com/bblanchon/ArduinoJson.git
+[submodule "lib/M5Unit-ENV"]
+	path = lib/M5Unit-ENV
+	url = https://github.com/m5stack/M5Unit-ENV.git
